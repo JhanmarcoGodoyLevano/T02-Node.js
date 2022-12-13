@@ -1,0 +1,21 @@
+{
+  "name": "t02-sanbenito",
+  "version": "1.0.0",
+  "description": "21506 SAN BENITO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhanmarcoGodoyLevano/T02-SanBenito.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhanmarcoGodoyLevano/T02-SanBenito/issues"
+  },
+  "homepage": "https://github.com/JhanmarcoGodoyLevano/T02-SanBenito#readme"
+}
